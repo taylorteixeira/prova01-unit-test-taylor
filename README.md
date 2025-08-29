@@ -2,7 +2,7 @@
 
 ## GitHub Actions
 
-[![Build and Tests](https://github.com/taylorteixeira/unit-tests-jest/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/taylorteixeira/prova01-unit-test-taylor/actions/workflows/node.js.yml)
+[![Build and Tests](https://github.com/taylorteixeira/prova01-unit-test-taylor/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/taylorteixeira/prova01-unit-test-taylor/actions/workflows/node.js.yml)
 
 ## SonarCloud
 
