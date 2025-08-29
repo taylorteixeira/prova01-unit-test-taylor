@@ -6,7 +6,7 @@
 
 ## SonarCloud
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=taylorteixeira_prova01-unit-test-taylor&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=prova01-unit-test-taylor)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=taylorteixeira_prova01-unit-test-taylor&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=taylorteixeira_prova01-unit-test-taylor)
 ## Getting Started
 
 In order to execute this project you must follow the steps below:
